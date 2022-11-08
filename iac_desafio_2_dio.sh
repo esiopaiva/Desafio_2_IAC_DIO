@@ -14,7 +14,7 @@ rm index.html
 
 echo "Instalando o Unzip...>"
 
-apt-get unzip -y
+apt-get install unzip -y
 
 echo "Preparando Build do projeto"
 
